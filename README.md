@@ -21,32 +21,15 @@
 
 <b> Installation </b>
 
-<table>
-  <tr>
-    <td>Installer Protobuf et Node.js</td>
-    <td>Sur Ubuntu :</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><code>sudo snap install protobuf --classic</code></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><code>sudo snap install node --classic</code></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Autres systèmes :</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Télécharger et installer Protobuf depuis : <a href="https://protobuf.dev/downloads/">https://protobuf.dev/downloads/</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Télécharger et installer Node.js depuis : <a href="https://nodejs.org/en/download">https://nodejs.org/en/download</a></td>
-  </tr>
-</table>
+<p><b>Installer Protobuf et Node.js</b></p>
+<p>Sur Ubuntu :</p>
+<pre><code>sudo snap install protobuf --classic</code></pre>
+<pre><code>sudo snap install node --classic</code></pre>
+
+<p>Autres systèmes :</p>
+<p>Télécharger et installer Protobuf depuis : <a href="https://protobuf.dev/downloads/">https://protobuf.dev/downloads/</a></p>
+<p>Télécharger et installer Node.js depuis : <a href="https://nodejs.org/en/download">https://nodejs.org/en/download</a></p>
+
 
 <b> Initialisation du projet </b>
 
